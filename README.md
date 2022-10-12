@@ -1,2 +1,2 @@
-# dxcc_map
-Data related to DXCC geography
+# DXCC Map
+Data related to the geography of the DXCC entities
